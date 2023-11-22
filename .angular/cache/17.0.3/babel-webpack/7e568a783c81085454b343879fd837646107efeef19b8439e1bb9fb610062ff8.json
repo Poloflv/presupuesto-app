@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Egreso {\n  description;\n  valor;\n  constructor(description, valor) {\n    this.description = description;\n    this.valor = valor;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
